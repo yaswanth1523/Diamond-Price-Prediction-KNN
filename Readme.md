@@ -150,6 +150,16 @@ streamlit run app/app.py
 
 The predicted price is a Machine Learning estimate based on the dataset and model used in this project. It is not a guaranteed market price or professional diamond valuation.
 
+## 🌐 Live Demo
+
+Try the deployed application:
+
+[Diamond Price Prediction App](https://diamond-price-prediction-knn.streamlit.app/)
+
+## 📂 GitHub Repository
+
+[View Source Code](https://github.com/yaswanth1523/Diamond-Price-Prediction-KNN)
+
 ## 👨‍💻 Author
 
 **Yaswanth Kumar Reddy M**
