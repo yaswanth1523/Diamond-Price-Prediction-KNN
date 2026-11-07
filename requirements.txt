@@ -1,0 +1,7 @@
+git # Python version used: 3.12.4
+
+streamlit==1.67.0
+pandas==3.1.1
+numpy==2.5.4
+scikit-learn==1.9.1
+joblib==1.6.0
